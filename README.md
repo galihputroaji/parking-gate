@@ -1,1 +1,1 @@
-# parking-gate
+# Simulasi Gerbang Parkir Arduino
